@@ -3,14 +3,14 @@
 [apply]
     whitespace = fix
 [user]
-	name = Pankaj Singh
-	email = psjinx@gmail.com
+	name = Pankaj Kumar Singh
+	email = pankaj28843@gmail.com
 [github]
-    user = psjinx
+    user = pankaj28843
 [format]
     signoff = true
 [sendemail]
-    smtpuser = psjinx@gmail.com
+    smtpuser = pankaj28843@gmail.com
     suppresscc = all
     smtpserver = smtp.gmail.com
     smtpserverport = 587
@@ -18,7 +18,7 @@
     chainreplyto = false
 [core]
     editor = vim
-    excludesfile = /home/psjinx/.gitignore
+    excludesfile = /home/pankaj28843/.gitignore
 [grep]
     lineNumber = true
 [color]
@@ -26,7 +26,7 @@
 [imap]
     folder = "[Gmail]/Drafts"
     host = imaps://imap.gmail.com
-    user = psjinx@gmail.com
+    user = pankaj28843@gmail.com
     port = 993
     sslverify = false
 [branch "master"]
