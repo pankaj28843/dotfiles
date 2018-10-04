@@ -18,7 +18,7 @@
     chainreplyto = false
 [core]
     editor = vim
-    excludesfile = /home/pankaj28843/.gitignore
+    excludesfile = /Users/pankaj/.gitignore_global
 [grep]
     lineNumber = true
 [color]
@@ -50,4 +50,4 @@
     pullall = pull --all
     fetchall = fetch --all
 [push]
-	default = matching
+    default = simple
